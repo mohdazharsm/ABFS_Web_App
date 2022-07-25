@@ -58,7 +58,7 @@ export default function HomePage() {
       )}
       <Box
         component="img"
-        alt="Hostel graphics"
+        alt="ABFS Device"
         src={require("../../assets/images/home/device.png")}
         maxHeight="50vh"
         maxWidth="90vw"
